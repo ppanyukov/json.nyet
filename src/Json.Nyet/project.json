@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-alpha-1",
+  "description": "Say \"Nyet\" to Json! Whatever this means once I figure out what this package is about.",
+  "authors": [ "ppanyukov" ],
+  "tags": [ "" ],
+  "projectUrl": "https://github.com/ppanyukov/json.nyet",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "System.Collections": "4.0.10-beta-23019",
+    "System.Linq": "4.0.0-beta-23019",
+    "System.Threading": "4.0.10-beta-23019",
+    "System.Runtime": "4.0.10-beta-23019",
+    "Microsoft.CSharp": "4.0.0-beta-23019"
+  },
+
+  "frameworks": {
+    "dotnet": { }
+  }
+}
